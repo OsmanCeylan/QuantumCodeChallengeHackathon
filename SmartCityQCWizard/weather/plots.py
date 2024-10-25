@@ -40,7 +40,7 @@ def sub_plot(size, small, big, x, subtitles, y, *y2):
     return plt
 
 def plot_weather_signals(df):
-    sub_plot((21, 9), 7, True, np.linspace(-np.pi, np.pi, len(df)), df.columns, df)
+    sub_plot((21, 9), 9, True, np.linspace(-np.pi, np.pi, len(df)), df.columns, df)
     plt.suptitle("Weather System Inputs and Output", fontsize=15)
 
 def plot_two_var_model(df1, df2):
