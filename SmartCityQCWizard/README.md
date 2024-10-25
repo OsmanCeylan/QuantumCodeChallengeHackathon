@@ -4,7 +4,11 @@ Quantum Code Challenge Hackathon for Smart Cities at CTE - Cagliari Digital Lab
 [Quantum Code Challenge](https://www.cagliaridlab.it/en/event.page?contentId=EVT881) is a entirely online hackathon on quantum computing applied to smart cities in the [CTE Cagliari DLAB](https://www.cagliaridlab.it/) project framework, organised by [CRS4](https://www.crs4.it/) in collaboration with [Open Campus](https://www.opencampus.it/) and with the endorsement of [Qitaly](https://qworld.net/qitaly/), the italian representative among the national active groups of the QWorld organization.
 The event takes place entirely online from 22 to 25 October 2024! 
 
-# Test
+# Team Info
+Semi Ceylan   ->   osman.semi.ceylan@gmail.com   ->   Semi_Ceylan_Wizard
+Sabri_Gündüz  ->   sabrigunduz92@gmail.com       ->   Sabri_Gündüz_Wizard
+Erdi Acar     ->   erdi_acr@gmail.com            
+İhsan Yılmaz  ->   iyilmaz@comu.edu.tr
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/crs4/QuantumCodeChallengeHackathon.git&redirectUrl=SmartCityQCWizard)
 ## Project Participation Rules and Guidelines
